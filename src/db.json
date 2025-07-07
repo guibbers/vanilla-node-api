@@ -1,1 +1,1 @@
-{"users":{"id":"29a65d5a-83b3-4259-8ee2-19334b4721f8","name":"John Doe","email":"johndoe@email.com"}}
+{"users":[{"id":"218a9912-4776-4edc-ab37-8483c1f18d5c","name":"Guilherme Torres","email":"guilherme@email.com"},{"id":"433bf0ae-ddbb-4612-910f-a0d7e45f565e","name":"John Doe","email":"john@email.com"},{"id":"ed34864c-fe34-4e7a-adf4-7b7993ff81e3","name":"Jane doe","email":"jane@email.com"}]}
